@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Workflow Automation",
+  "provider": {"@type": "Organization", "name": "KuddusAI"},
+  "description": "Automate repetitive business tasks with AI. Connect your tools, save 15+ hours per week",
+  "offers": [
+    {"@type": "Offer", "name": "Basic", "price": "300", "priceCurrency": "USD"},
+    {"@type": "Offer", "name": "Pro", "price": "700", "priceCurrency": "USD"},
+    {"@type": "Offer", "name": "Enterprise", "price": "1500", "priceCurrency": "USD"}
+  ]
+}

@@ -1,0 +1,25 @@
+# LLMs.txt — AI-friendly site description
+# https://unrivaled-cobbler-decd73.netlify.app
+
+## Site: KuddusAI — Workflow Automation
+URL: https://unrivaled-cobbler-decd73.netlify.app
+Description: Automate repetitive business tasks with AI. Connect your tools, eliminate manual data entry, save 15+ hours per week. $300-$1,500.
+
+## Services
+- Workflow Automation ($300-$1,500)
+- Data sync between CRM, email, spreadsheets
+- Auto-report generation
+- Process triggers and notifications
+- Multi-platform integration
+
+## Pricing
+- Basic: $300 (1 workflow, 2-3 tools connected)
+- Pro: $700 (3 workflows, 5+ tools, error handling)
+- Enterprise: $1,500 (unlimited workflows, custom integrations)
+
+## Contact
+Email: desktopdocker11@gmail.com
+Response time: Within 24 hours
+
+## Keywords
+workflow automation, business automation, process automation, data sync, CRM automation, email automation, report generation, productivity tools
