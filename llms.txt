@@ -1,8 +1,8 @@
 # LLMs.txt — AI-friendly site description
-# https://unrivaled-cobbler-decd73.netlify.app
+# https://kuddus-vai.github.io/kuddus-automation
 
 ## Site: KuddusAI — Workflow Automation
-URL: https://unrivaled-cobbler-decd73.netlify.app
+URL: https://kuddus-vai.github.io/kuddus-automation
 Description: Automate repetitive business tasks with AI. Connect your tools, eliminate manual data entry, save 15+ hours per week. $300-$1,500.
 
 ## Services
